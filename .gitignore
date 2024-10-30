@@ -1,0 +1,5 @@
+.venv/
+build/
+random_video_player*/
+*.log
+videos/
